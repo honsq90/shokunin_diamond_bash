@@ -1,4 +1,6 @@
-# Diamond Challenge
+# Diamond Challenge 
+
+:trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface::trollface:
 
 Input the middle character to draw a diamond
 e.g if you run this program with input `E` your output will be..
