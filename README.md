@@ -28,6 +28,13 @@ Run app, like so `./go.sh run <input>`
 ./go.sh run E
 ...
 ```
+### Timing
+```
+> time ./go.sh run z
+real	0m0.003s
+user	0m0.001s
+sys	    0m0.001s
+```
 
 ### Credits
 Credits to @joesustaric for the README template.
